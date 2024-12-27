@@ -48,3 +48,8 @@ It has not been long since the mainnet of Eclipse was launched, so gradually new
 
 Explore Ecosystem: https://www.eclipse.xyz/ecosystem
 
+<h1>💎💎 Follow us on telegram for latest FCFS updates and alpha 🪂🪂</h1>
+
+🪂Link: https://telegram.me/feature_earning 
+
+
