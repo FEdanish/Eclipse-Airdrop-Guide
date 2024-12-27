@@ -24,7 +24,7 @@ https://docs.eclipse.xyz/users/getting-started/1.-set-up-your-eclipse-wallet
 
 <h1>Use dapps and interact on the Eclipse ecosystem</h1>
 
-1) invariant labs: winner of Eclipse Hackathon.
+1⃣ invariant labs: winner of Eclipse Hackathon.
 
 Source: https://x.com/invariant_labs/status/1839676182884663721
 
