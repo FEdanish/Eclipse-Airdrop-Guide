@@ -38,3 +38,7 @@ Bridge link: https://www.usenexus.org
 
 Link: https://scopenft.xyz
 
+4⃣ Turbo Tap Game: made by Eclipse team.
+
+🎮Game: http://tap.eclipse.xyz
+
