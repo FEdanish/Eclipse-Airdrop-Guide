@@ -42,3 +42,9 @@ Link: https://scopenft.xyz
 
 🎮Game: http://tap.eclipse.xyz
 
+<h1>💎💎Important Points</h1>
+
+It has not been long since the mainnet of Eclipse was launched, so gradually new dapps will come in which we will position ourselves by interacting.
+
+Explore Ecosystem: https://www.eclipse.xyz/ecosystem
+
