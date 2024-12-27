@@ -21,3 +21,11 @@ https://docs.eclipse.xyz/users/getting-started/1.-set-up-your-eclipse-wallet
 🔹 1st Bridge: https://relay.link
 🔹 2nd Bridge https://www.gas.zip
 🔹 3rd Bridge: https://owlto.finance
+
+<h1>Use dapps and interact on the Eclipse ecosystem</h1>
+
+1) invariant labs: winner of Eclipse Hackathon.
+
+Source: https://x.com/invariant_labs/status/1839676182884663721
+
+Dex link: https://eclipse.invariant.app/points
