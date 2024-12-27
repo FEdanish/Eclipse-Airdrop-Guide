@@ -29,3 +29,6 @@ https://docs.eclipse.xyz/users/getting-started/1.-set-up-your-eclipse-wallet
 Source: https://x.com/invariant_labs/status/1839676182884663721
 
 Dex link: https://eclipse.invariant.app/points
+
+2⃣Hyperlane: one of the OG project in its space, has successfully raised $18.5 million in funding from leading venture capital firms.
+Bridge link: https://www.usenexus.org
