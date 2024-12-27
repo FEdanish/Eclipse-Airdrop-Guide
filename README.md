@@ -42,6 +42,14 @@ Link: https://scopenft.xyz
 
 🎮Game: http://tap.eclipse.xyz
 
+5️⃣ ORCA: One of the best DEX on Eclipse.
+
+Dex link: https://www.orca.so
+
+6️⃣ Astrol Protocol: First Native Lending Protocol On Eclipse
+
+Link: https://app.astrol.io
+
 <h1>💎💎Important Points</h1>
 
 It has not been long since the mainnet of Eclipse was launched, so gradually new dapps will come in which we will position ourselves by interacting.
